@@ -4,7 +4,7 @@
   <title><![CDATA[Nick's Blog]]></title>
   <link href="http://nickhuangdev.github.io/atom.xml" rel="self"/>
   <link href="http://nickhuangdev.github.io/"/>
-  <updated>2018-10-25T23:39:32+08:00</updated>
+  <updated>2018-10-25T23:42:28+08:00</updated>
   <id>http://nickhuangdev.github.io/</id>
   <author>
     <name><![CDATA[Nick]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[如何讓你的Octopress Github website在Google搜索到]]></title>
+    <title type="html"><![CDATA[如何使Octopress website在Google搜索到]]></title>
     <link href="http://nickhuangdev.github.io/blog/2018/10/25/how-to-add-your-octopress-blog-website-to-google-search-console/"/>
     <updated>2018-10-25T23:25:25+08:00</updated>
     <id>http://nickhuangdev.github.io/blog/2018/10/25/how-to-add-your-octopress-blog-website-to-google-search-console</id>
@@ -27,8 +27,7 @@
 
 <pre><code>rake gen_deploy
 </code></pre></li>
-<li><p>回到Google search console, 點擊驗證</p></li>
-<li>完成</li>
+<li><p>回到Google search console，點擊驗證，完成</p></li>
 </ol>
 
 ]]></content>
